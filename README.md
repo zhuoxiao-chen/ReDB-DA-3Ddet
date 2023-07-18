@@ -2,8 +2,9 @@
 ![ReDB - 3D Detection](https://user-images.githubusercontent.com/17021756/224210342-785cce82-bc75-415a-b29f-34ff39b0108f.png)
 
 
-This work is the official PyTorch implementation of our ICCV submission:
-"**Revisiting Domain-Adaptive 3D Object Detection by Reliable, Diverse and Class-balanced Pseudo-Labeling**"
+This work is the official Pytorch implementation of our **ICCV2023** publication: "**Revisiting Domain-Adaptive 3D Object Detection by Reliable, Diverse and Class-balanced Pseudo-Labeling**"
+
+[[arXiv]](https://arxiv.org/abs/2307.07944)
 
 ## Framework
 ![img.png](docs/framework.png)
