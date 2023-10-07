@@ -4,7 +4,7 @@
 
 This work is the official Pytorch implementation of our **ICCV2023** publication: "**Revisiting Domain-Adaptive 3D Object Detection by Reliable, Diverse and Class-balanced Pseudo-Labeling**"
 
-[[arXiv]](https://arxiv.org/abs/2307.07944)
+[[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Revisiting_Domain-Adaptive_3D_Object_Detection_by_Reliable_Diverse_and_Class-balanced_ICCV_2023_paper.html)
 
 ## Framework
 ![img.png](docs/framework.png)
